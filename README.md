@@ -3,6 +3,7 @@
 This repository contains a wine quality analysis project, which aims to assess the quality of different wines based on various factors. The analysis is performed using machine learning techniques and the dataset used for training and evaluation is included in this repository.
 
 Analysis Approach
+
 The analysis follows a systematic process to evaluate the quality of wines based on the provided dataset. The following steps were undertaken:
 
 Data Preprocessing: The dataset is preprocessed to handle missing values, outliers, and any other data quality issues. Feature engineering techniques may also be applied to extract additional relevant information.
@@ -18,6 +19,7 @@ Model Evaluation: The trained models are evaluated using appropriate evaluation 
 Model Deployment: The selected model is deployed to make predictions on new, unseen data. This can be achieved through a web-based interface, API, or any other suitable method
 
 Dependencies
+
 To run the code in this repository, the following dependencies are required:
 
 Python (version X.X.X)
